@@ -45,3 +45,4 @@ tornado
 traitlets
 tzdata
 wcwidth
+tabulate
